@@ -8,6 +8,11 @@ A Python script to convert **binary strings to text** and **text to binary**, su
 - Support for **custom delimiters** (e.g., space, comma).
 - **Character encoding** support (default is `utf-8`, but you can use `utf-16` or others).
 
+## If Problem for pip? Can help you (Working) Kali Linux
+- sudo apt install python3-venv
+- python3 -m venv ~/myenv
+- source ~/myenv/bin/activate
+
 ## Installation
 
 You don’t need to install anything to use this script. Just clone the repository and run the script.
