@@ -12,6 +12,9 @@ A Python script to convert **binary strings to text** and **text to binary**, su
 
 You don’t need to install anything to use this script. Just clone the repository and run the script.
 
+## LINUX OR ARCH LINUX
+KALI,UBUNTU,DEBIAN AND OTHER TO LINUX 
+
 ```bash
 git clone https://github.com/your-username/binary-to-text-converter.git
 cd binary-to-text-converter
