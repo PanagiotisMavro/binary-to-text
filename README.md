@@ -16,7 +16,7 @@ You don’t need to install anything to use this script. Just clone the reposito
 KALI,UBUNTU,DEBIAN AND OTHER TO LINUX 
 
 ```bash
-git clone https://github.com/your-username/binary-to-text-converter.git
+git clone https://github.com/PanagiotisMavro/binary-to-text
 cd binary-to-text-converter
 
 1. Convert Text to Binary
