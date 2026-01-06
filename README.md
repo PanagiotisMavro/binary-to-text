@@ -1,7 +1,6 @@
 # Binary to Text Converter
 --
 ![image alt](https://github.com/PanagiotisMavro/binary-to-text/blob/main/Screenshot%202026-01-06%2011%3A49%3A32.png)
---
 A Python script to convert **binary strings to text** and **text to binary**, supporting various delimiters and custom encoding.
 
 ## Features
